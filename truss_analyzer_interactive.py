@@ -15,7 +15,7 @@
   Output: truss_analysis_output.png saved in the same folder.
 =============================================================
 """
-
+#starting from here
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
