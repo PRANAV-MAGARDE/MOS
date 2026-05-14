@@ -1,1 +1,2 @@
-Why are you reading this? Get to work now!!!
+This is a read me file.
+Running the test.
